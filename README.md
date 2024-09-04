@@ -3,7 +3,7 @@
 
 I'm a Computer Science and Engineering student with a passion for **Machine Learning**, **Deep Learning** and **Data Science**.
 
-**Key Skills:** Java, Python, C++, TensorFlow, Flask, ReactJS
+**Key Skills:** Java, Python, C++, TensorFlow, Flask, GenAI
 
 **Achievements:** Winner @Hackfest IIT-Bhubaneswar 2024, 1st Runner up HackNation 2024 by NIRMAN
 
