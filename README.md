@@ -1,7 +1,7 @@
 
 # Hi, I'm Chandan Kumar Nayak 👋
 
-I'm a Computer Science and Engineering student with a passion for **Machine Learning**, **Deep Learning**, and **Data Science**.
+I'm a Computer Science and Engineering student with a passion for **Machine Learning**, **Deep Learning** and **Data Science**.
 
 **Key Skills:** Java, Python, C++, TensorFlow, Flask, ReactJS
 
